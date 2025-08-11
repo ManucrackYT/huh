@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-RADAR_DOWNLOAD_URL="https://assets.pluox.xyz/radar/radar.js"
+RADAR_DOWNLOAD_URL="https://raw.githubusercontent.com/ManucrackYT/huh/refs/heads/main/radar.js"
 
 # Colors for output
 RED='\033[0;31m'
